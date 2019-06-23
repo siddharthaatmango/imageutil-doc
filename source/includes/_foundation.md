@@ -33,20 +33,20 @@ Every origin added, will have an unique id attached to it automatically. In this
 
 ```css
 body {
- background-image: url("https://imagetransform.io/87e8ca8834f7a952e6ec/s:400x200,p:fit,f:webp/static/Blue_Berries.jpg");
+ background-image: url("https://transform.imageutil.io/87e8ca8834f7a952e6ec/s:400x200,p:fit,f:webp/static/Blue_Berries.jpg");
 }
 ```
 
 ```html
-<img src="https://imagetransform.io/87e8ca8834f7a952e6ec/s:400x200,p:fit,f:webp/static/Blue_Berries.jpg" alt="" />
+<img src="https://transform.imageutil.io/87e8ca8834f7a952e6ec/s:400x200,p:fit,f:webp/static/Blue_Berries.jpg" alt="" />
 ```
 
  Scale image and show image in a 400x200 bounding box and format webp
 
-`https://imagetransform.io/87e8ca8834f7a952e6ec/s:400x200,p:fit,f:webp/static/Blue_Berries.jpg`
+`https://transform.imageutil.io/87e8ca8834f7a952e6ec/s:400x200,p:fit,f:webp/static/Blue_Berries.jpg`
 
 
-![alt Blue_Berries.jpg](https://imagetransform.io/87e8ca8834f7a952e6ec/s:400x200,p:fit,f:webp/static/Blue_Berries.jpg "Transformed Image")
+![alt Blue_Berries.jpg](https://transform.imageutil.io/87e8ca8834f7a952e6ec/s:400x200,p:fit,f:webp/static/Blue_Berries.jpg "Transformed Image")
 
 ### Crop 
 
@@ -54,20 +54,20 @@ body {
 
 ```css
 body {
- background-image: url("https://imagetransform.io/87e8ca8834f7a952e6ec/s:400x200,f:webp/static/Blue_Berries.jpg");
+ background-image: url("https://transform.imageutil.io/87e8ca8834f7a952e6ec/s:400x200,f:webp/static/Blue_Berries.jpg");
 }
 ```
 
 ```html
-<img src="https://imagetransform.io/87e8ca8834f7a952e6ec/s:400x200,f:webp/static/Blue_Berries.jpg" alt="" />
+<img src="https://transform.imageutil.io/87e8ca8834f7a952e6ec/s:400x200,f:webp/static/Blue_Berries.jpg" alt="" />
 ```
 
  Crop to show image in a 400x200 to resize and format webp
 
-`https://imagetransform.io/87e8ca8834f7a952e6ec/s:400x200,f:webp/static/Blue_Berries.jpg`
+`https://transform.imageutil.io/87e8ca8834f7a952e6ec/s:400x200,f:webp/static/Blue_Berries.jpg`
 
 
-![alt Blue_Berries.jpg](https://imagetransform.io/87e8ca8834f7a952e6ec/s:400x200,f:webp/static/Blue_Berries.jpg "Transformed Image")
+![alt Blue_Berries.jpg](https://transform.imageutil.io/87e8ca8834f7a952e6ec/s:400x200,f:webp/static/Blue_Berries.jpg "Transformed Image")
 
 
 ### Effects
@@ -76,17 +76,17 @@ body {
 
 ```css
 body {
- background-image: url("https://imagetransform.io/87e8ca8834f7a952e6ec/s:400x200,e:noise(80)f:webp/static/Blue_Berries.jpg");
+ background-image: url("https://transform.imageutil.io/87e8ca8834f7a952e6ec/s:400x200,e:noise(80)f:webp/static/Blue_Berries.jpg");
 }
 ```
 
 ```html
-<img src="https://imagetransform.io/87e8ca8834f7a952e6ec/s:400x200,e:noise(80)f:webp/static/Blue_Berries.jpg" alt="" />
+<img src="https://transform.imageutil.io/87e8ca8834f7a952e6ec/s:400x200,e:noise(80)f:webp/static/Blue_Berries.jpg" alt="" />
 ```
 
  Crop to show image in a 400x200 to resize and format webp and adds some noise
 
-`https://imagetransform.io/87e8ca8834f7a952e6ec/s:400x200,e:noise(80)f:webp/static/Blue_Berries.jpg`
+`https://transform.imageutil.io/87e8ca8834f7a952e6ec/s:400x200,e:noise(80)f:webp/static/Blue_Berries.jpg`
 
 
-![alt Blue_Berries.jpg](https://imagetransform.io/87e8ca8834f7a952e6ec/s:400x200,e:noise(80)f:webp/static/Blue_Berries.jpg "Transformed Image")
+![alt Blue_Berries.jpg](https://transform.imageutil.io/87e8ca8834f7a952e6ec/s:400x200,e:noise(80)f:webp/static/Blue_Berries.jpg "Transformed Image")

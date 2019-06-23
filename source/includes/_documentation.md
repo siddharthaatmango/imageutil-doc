@@ -2,7 +2,7 @@
 
 ## URL FORMAT
 
-`https://imagetransform.io/{origin-id}/s:{width}x{height}[,p:{crop|fit}-{top|middle|bottom}-{left|center|right},q:{0-100},f:{webp|jpeg|gif|png},e:{brightness}][/smart]/path/to/image.jpg`
+`https://transform.imageutil.io/{origin-id}/s:{width}x{height}[,p:{crop|fit}-{top|middle|bottom}-{left|center|right},q:{0-100},f:{webp|jpeg|gif|png},e:{brightness}][/smart]/path/to/image.jpg`
 
 options with in `[]` are optional
 

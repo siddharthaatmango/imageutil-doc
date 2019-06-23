@@ -19,7 +19,7 @@ search: true
 
 # Introduction
 
-Welcome to the ImageUtil! A beautiful Image Utility/API crafted for web applications and blogs.
+Welcome to the ImageUtil! A beautiful Image Utility/API crafted for web applications, online stores and blogs.
 
 ImageUtil comes with real-time, intelligent transformation and optimization options to help you get started faster. All of your images will be optimized and transformed on the fly.
 
@@ -32,20 +32,20 @@ Using ImageUtil is very easy. All you have to do is access it using an URL for a
 
 ```css
 body {
- background-image: url("https://imagetransform.io/87e8ca8834f7a952e6ec/s:400x200,f:webp/static/image1.jpg");
+ background-image: url("https://transform.imageutil.io/87e8ca8834f7a952e6ec/s:400x200,f:webp/static/image1.jpg");
 }
 ```
 
 ```html
-<img src="https://imagetransform.io/87e8ca8834f7a952e6ec/s:400x200,f:webp/static/image1.jpg" alt="" />
+<img src="https://transform.imageutil.io/87e8ca8834f7a952e6ec/s:400x200,f:webp/static/image1.jpg" alt="" />
 ```
 
  Crop image and show image of 400x200 and format webp
 
-`https://imagetransform.io/87e8ca8834f7a952e6ec/s:400x200,f:webp/static/image1.jpg`
+`https://transform.imageutil.io/87e8ca8834f7a952e6ec/s:400x200,f:webp/static/image1.jpg`
 
 
-![alt image1.jpg](https://imagetransform.io/87e8ca8834f7a952e6ec/s:400x200,f:webp/static/image1.jpg "Transformed Image")
+![alt image1.jpg](https://transform.imageutil.io/87e8ca8834f7a952e6ec/s:400x200,f:webp/static/image1.jpg "Transformed Image")
 
 ### Example 2:
 
@@ -54,21 +54,21 @@ body {
 
 ```css
 body {
- background-image: url("https://imagetransform.io/87e8ca8834f7a952e6ec/s:400x200,f:webp/smart/static/image1.jpg");
+ background-image: url("https://transform.imageutil.io/87e8ca8834f7a952e6ec/s:400x200,f:webp/smart/static/image1.jpg");
 }
 ```
 
 ```html
-<img src="https://imagetransform.io/87e8ca8834f7a952e6ec/s:400x200,f:webp/smart/static/image1.jpg" alt="" />
+<img src="https://transform.imageutil.io/87e8ca8834f7a952e6ec/s:400x200,f:webp/smart/static/image1.jpg" alt="" />
 ```
 
 
 Crop image and show image of 400x200 and format webp, using smart crop
 
-`https://imagetransform.io/87e8ca8834f7a952e6ec/s:400x200,f:webp/smart/static/image1.jpg`
+`https://transform.imageutil.io/87e8ca8834f7a952e6ec/s:400x200,f:webp/smart/static/image1.jpg`
 
 
-![alt image1.jpg](https://imagetransform.io/87e8ca8834f7a952e6ec/s:400x200,f:webp/smart/static/image1.jpg "Transformed Image")
+![alt image1.jpg](https://transform.imageutil.io/87e8ca8834f7a952e6ec/s:400x200,f:webp/smart/static/image1.jpg "Transformed Image")
 
 ### Example 3:
 
@@ -76,20 +76,20 @@ Crop image and show image of 400x200 and format webp, using smart crop
 
 ```css
 body {
- background-image: url("https://imagetransform.io/87e8ca8834f7a952e6ec/s:400x200,e:rgb(0,0,160),f:webp/smart/static/image1.jpg");
+ background-image: url("https://transform.imageutil.io/87e8ca8834f7a952e6ec/s:400x200,e:rgb(0,0,160),f:webp/smart/static/image1.jpg");
 }
 ```
 
 ```html
-<img src="https://imagetransform.io/87e8ca8834f7a952e6ec/s:400x200,e:rgb(0,0,160),f:webp/smart/static/image1.jpg" alt="" />
+<img src="https://transform.imageutil.io/87e8ca8834f7a952e6ec/s:400x200,e:rgb(0,0,160),f:webp/smart/static/image1.jpg" alt="" />
 ```
 
 Crop image and show image of 400x200 and format webp using smart crop and a rgb filter
 
-`https://imagetransform.io/87e8ca8834f7a952e6ec/s:400x200,e:rgb(0,0,160),f:webp/smart/static/image1.jpg`
+`https://transform.imageutil.io/87e8ca8834f7a952e6ec/s:400x200,e:rgb(0,0,160),f:webp/smart/static/image1.jpg`
 
 
-![alt image1.jpg](https://imagetransform.io/87e8ca8834f7a952e6ec/s:400x200,e:rgb(0,0,160),f:webp/smart/static/image1.jpg "Transformed Image")
+![alt image1.jpg](https://transform.imageutil.io/87e8ca8834f7a952e6ec/s:400x200,e:rgb(0,0,160),f:webp/smart/static/image1.jpg "Transformed Image")
 
 
 
